@@ -21,3 +21,6 @@
 # External Dependencies
 javafx*
 com*
+
+# Not Telling
+*.key
